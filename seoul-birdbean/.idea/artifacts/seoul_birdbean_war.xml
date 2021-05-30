@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="seoul-birdbean:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>seoul-birdbean</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="seoul-birdbean-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="seoul-birdbean:war exploded" />
+    </root>
+  </artifact>
+</component>
