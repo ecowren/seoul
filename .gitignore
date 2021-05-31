@@ -30,6 +30,7 @@ speed-measure-plugin*.json
 *.launch
 .settings/
 *.sublime-workspace
+*.iml
 
 # misc
 /.sass-cache
